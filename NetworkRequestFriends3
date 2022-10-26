@@ -103,7 +103,7 @@
         "lastName": "Reilly",
         "profileToken": "2GTEC14V2YCFJDNA4",
         "avatar": "https://i.pravatar.cc/150?u=58456",
-        "isFriend": true,
+        "isFriend": false,
         "isPoking": false,
         "tigerRank": "Tiger Cub"
     },
