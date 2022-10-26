@@ -202,7 +202,7 @@
         "lastName": "Fisher",
         "profileToken": "1GCJK39K38X6PLH3R",
         "avatar": "https://i.pravatar.cc/150?u=67433",
-        "isFriend": true,
+        "isFriend": false,
         "isPoking": true,
         "tigerRank": "Baby Tiger"
     },
