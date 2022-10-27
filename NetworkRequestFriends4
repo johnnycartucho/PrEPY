@@ -1,5 +1,14 @@
 [
     {
+        "firstName": "Blake",
+        "lastName": "Grimes",
+        "profileToken": "1GTGC791845S6JBLU",
+        "avatar": "https://i.pravatar.cc/150?u=95411",
+        "isFriend": true,
+        "isPoking": false,
+        "tigerRank": "Tiger 500"
+    },
+    {
         "firstName": "Hubert",
         "lastName": "Johnston",
         "profileToken": "3GCBABDW8BYE9VSV3",
@@ -241,15 +250,6 @@
         "isFriend": true,
         "isPoking": false,
         "tigerRank": "Tiger 69"
-    },
-    {
-        "firstName": "Blake",
-        "lastName": "Grimes",
-        "profileToken": "1GTGC791845S6JBLU",
-        "avatar": "https://i.pravatar.cc/150?u=95426",
-        "isFriend": true,
-        "isPoking": false,
-        "tigerRank": "Tiger 500"
     },
     {
         "firstName": "Perry",
