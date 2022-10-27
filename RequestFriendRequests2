@@ -435,7 +435,6 @@
         "firstName": "Johnnie",
         "lastName": "Rice",
         "profileToken": "2HGFG1A25BG1YLCL3",
-        "avatar": "https://i.pravatar.cc/150?u=66174",
         "tigerRank": "Tiger 300 ",
         "sentFriendRequestToAppUser": true,
         "sentFriendRequestToAppUserOnDate": "2023-01-14 19:39:53"
@@ -446,7 +445,6 @@
         "profileToken": "1GCRCTC25BWD97E13",
         "avatar": "https://i.pravatar.cc/150?u=40855",
         "tigerRank": "Tiger 100",
-        "sentFriendRequestToAppUser": true,
-        "sentFriendRequestToAppUserOnDate": "2023-01-18 00:39:53"
+        "sentFriendRequestToAppUser": false,
     }
 ]
