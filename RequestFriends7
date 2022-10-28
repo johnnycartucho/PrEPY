@@ -1048,7 +1048,7 @@
         "profileToken": "1GKFC160393AVLD6Y",
         "avatar": "https://i.pravatar.cc/150?u=68823",
         "isFriend": true,
-        "isPoking": false,
+        "isPoking": true,
         "tigerRank": "Tiger King 32,324",
         "bookings": [
             {
