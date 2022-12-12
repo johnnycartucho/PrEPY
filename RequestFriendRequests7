@@ -1,0 +1,70 @@
+[
+    {
+        "firstName": "Erick",
+        "lastName": "Price",
+        "profileToken": "4TAWN74N3YE2ZREJR",
+        "avatar": "",
+        "isFriend": false,
+        "sentFriendRequestToAppUser": true,
+        "sentFriendRequestToAppUserOnDate": "2021-10-17 20:48:25",
+        "isPoking": false,
+        "tigerRank": "Baby Tiger",
+        "bookings": [
+            {
+                "startsAt": "2022-11-03 14:07:39",
+                "focusVibe": "writing",
+                "bookingToken": "JA4LS41H7W3461TAM"
+            },
+            {
+                "startsAt": "2022-12-14 04:31:10",
+                "focusVibe": "study",
+                "bookingToken": "WDWPF34607ZYMZJ8G"
+            },
+            {
+                "startsAt": "2022-12-02 17:55:05",
+                "focusVibe": "coding",
+                "bookingToken": "4JGBB2FB5BB9MDNG8"
+            },
+            {
+                "startsAt": "2022-11-29 11:31:46",
+                "focusVibe": "biz",
+                "bookingToken": "3GTFK13YX9YXTWGN1"
+            },
+            {
+                "startsAt": "2022-12-14 15:23:28",
+                "focusVibe": "creative",
+                "bookingToken": "1FTJE34G5TL624TMC"
+            },
+            {
+                "startsAt": "2022-12-07 07:04:00",
+                "focusVibe": "planning",
+                "bookingToken": "WVGBV7AX6BW1CW25N"
+            },
+            {
+                "startsAt": "2022-10-30 09:45:49",
+                "focusVibe": "study",
+                "bookingToken": "3D6WC68L39RXVJ586"
+            }
+        ],
+        "answers": [
+            {
+                "questionIdentifier": "TF069",
+                "question": "I'm currently reading",
+                "answer": "Magna quis nisi do ex ut. Aliqua amet aute laborum magna magna tempor.",
+                "updatedAt": "2022-02-24 01:28:30"
+            },
+            {
+                "questionIdentifier": "TF085",
+                "question": "A social cause I’m passionate about",
+                "answer": "Ad veniam reprehenderit velit laboris laborum tempor ipsum enim eiusmod Lorem dolor culpa consequat. Voluptate minim cillum quis fugiat Lorem amet eiusmod.",
+                "updatedAt": "2022-08-07 19:38:09"
+            },
+            {
+                "questionIdentifier": "TF093",
+                "question": "My mantra",
+                "answer": "Id aliqua consectetur excepteur ex adipisicing.",
+                "updatedAt": "2022-03-17 18:49:09"
+            }
+        ]
+    }
+]
